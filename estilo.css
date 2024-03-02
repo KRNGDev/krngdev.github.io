@@ -1,65 +1,90 @@
-body{
-    font-family: 'Work Sans', sans-serif;
-    font-size: 16px;
-    padding: 1rem;
-    height: 100%;
-    background: #F3F5F5;
-    display: flex;
-    flex-direction: column;
-    justify-content:center;
-    align-items: left;
-    margin: 0;
+body {
+  font-family: 'Work Sans', sans-serif;
+  font-size: 16px;
+  padding: 1rem;
+  height: 100%;
+  background: #F3F5F5;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: left;
+  margin: 0;
 }
 
 header {
-  background-color: #170dad13;
-    padding: 0.5px;
-    margin: 0.5px;
-    font-family:Arial, Helvetica, sans-serif;
-    color:rgb(21, 8, 99);
-    text-align: center;
-    border-radius: 10px; /* Ajusta el valor para cambiar el radio de las esquinas */
-    box-shadow: 0 2px 4px rgba(7, 7, 7, 0.705); /* Ajusta los valores para personalizar la sombra */
-  }
-  ul{
-    list-style-type: none;
-  }
-  li{
-  background-color: #170dad13;
-    margin: 5px;
-    padding: 5px;
-    border-radius: 10px; /* Ajusta el valor para cambiar el radio de las esquinas */
-    box-shadow: 0 2px 4px rgba(7, 7, 7, 0.466);
-    transition: background-color 0.3s ease;
-  }
-  li:hover{
-    background-color: #ccc;
-  }
-  div{
+  background-color: #5f5aa813;
+  padding: 0.5px;
+  margin: 0.5px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(21, 8, 99);
+  text-align: center;
+  border-radius: 10px;
+  /* Ajusta el valor para cambiar el radio de las esquinas */
+  box-shadow: 0 2px 4px rgba(7, 7, 7, 0.705);
+  /* Ajusta los valores para personalizar la sombra */
+}
 
-    max-width: 250px;
-    margin: 10px;
-    padding: 5px;
-    display: inline-block;
-    background-color: #084aff15;
-    border-radius: 5px; /* Ajusta el valor para cambiar el radio de las esquinas */
-    box-shadow: 0 2px 4px rgba(7, 7, 7, 0.466);
-  }
+ul {
+  list-style-type: none;
+}
 
-  fieldset{
-    max-width: 140px;
-    margin-top: 20px;
-    background-color: #170dad13;
-    border-radius: 10px; /* Ajusta el valor para cambiar el radio de las esquinas */
-    box-shadow: 0 2px 4px rgba(7, 7, 7, 0.466);
-  }
-  a{
-    text-decoration: none;
-  }
-  h2{
-    max-width: 220px;
-    padding: 5px;
-    background-color: #170dad13;
-    border-radius: 5px; /* Ajusta el valor para cambiar el radio de las esquinas */
-    box-shadow: 0 2px 4px rgba(7, 7, 7, 0.466);
-  }
+li {
+  background-color: #5650af13;
+  margin: 5px;
+  padding: 5px;
+  max-width: 130px;
+  border-radius: 5px;
+  /* Ajusta el valor para cambiar el radio de las esquinas */
+  box-shadow: 0 2px 4px rgba(7, 7, 7, 0.466);
+  transition: background-color 0.3s ease;
+}
+
+li:hover {
+  background-color: #ccc;
+}
+
+div {
+
+  max-width: 300px;
+  margin: 10px;
+  padding: 5px;
+  display: inline-block;
+  background-color: #084aff15;
+  border-radius: 5px;
+  /* Ajusta el valor para cambiar el radio de las esquinas */
+  box-shadow: 0 2px 4px rgba(7, 7, 7, 0.466);
+}
+
+fieldset {
+  max-width: 140px;
+  margin-top: 20px;
+  background-color: #170dad13;
+  border-radius: 5px;
+  /* Ajusta el valor para cambiar el radio de las esquinas */
+  box-shadow: 0 2px 4px rgba(7, 7, 7, 0.466);
+}
+
+a {
+  text-decoration: none;
+}
+
+footer {
+  position: fixed;
+  width: 100%;  /* Fija la posición del footer */
+  bottom: 0;
+  margin: 10px;
+  padding: 10px;
+  background-color: #170dad13;
+  border-radius: 5px;  /* Ajusta el valor para cambiar el radio de las esquinas */
+  box-shadow: 0 2px 4px rgba(7, 7, 7, 0.466);
+}
+
+h2 {
+  max-width: 300px;
+  padding: 5px;
+  
+  background-color: #a19dd613;
+  border-radius: 5px;
+  /* Ajusta el valor para cambiar el radio de las esquinas */
+  box-shadow: 0 2px 4px rgba(7, 7, 7, 0.466);
+}
