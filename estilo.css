@@ -22,13 +22,10 @@ header {
     box-shadow: 0 2px 4px rgba(7, 7, 7, 0.705); /* Ajusta los valores para personalizar la sombra */
   }
   ul{
-   
-   
-    
+    list-style-type: none;
   }
   li{
   background-color: #170dad13;
-   display: inline-block;
     margin: 5px;
     padding: 5px;
     border-radius: 10px; /* Ajusta el valor para cambiar el radio de las esquinas */

@@ -1,0 +1,168 @@
+h1 {margin:5px;    
+}
+#lisitado-container{display: flex; /* Utilizamos flexbox para la disposición horizontal */
+    align-items: center; /* Centra verticalmente los elementos */
+    
+
+}
+img{
+    flex: 1; /* Ocupa el espacio restante en el contenedor */
+    text-align: center; /* Centra la imagen horizontalmente */
+    max-width: 100%; /* La imagen no será más grande que el contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+}
+/* Estilo para el formulario */
+form {
+    display: inline-block; /* Hace que el formulario se ajuste al contenido */
+    flex: 1; /* Ocupa el espacio restante en el contenedor */
+            padding: 20px;
+            border: 1px solid #ccc;
+}
+
+/* Estilo para los elementos del formulario */
+label, input {
+    display: block;
+    margin-bottom: 5px;
+}
+/* Estilos para el select 
+.select {
+    font-size: 20px;
+    padding: 5px; 
+    width: 350px; 
+    height: 40px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    margin: 20px;
+}
+.option{
+    font-size: 30px;
+}
+.texto{
+     font-size: 30px;
+     color: #ffffff;
+    margin-bottom: 2;
+}
+#form_actualiza{
+
+    align-items: center;
+    padding: auto;
+}
+#encabezado {
+    position: absolute;
+    background-color:#da0000;
+    width: 100%;    
+    text-align: center;
+    padding: auto;
+    z-index: 0;
+}
+#encabezado-editar {
+    
+    background-color:#da0000;
+    width: 100%;    
+    text-align: center;
+    padding: auto;
+}
+#form_listado{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    margin-bottom: 10px;
+
+}
+#contenido {
+    background-color:#EEEEEE;
+    height:100%;
+    width: fit-content;
+    text-align: justify;
+    margin: auto;
+    padding:20px;
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+}
+#contenido-editar {
+    background-color:#EEEEEE;
+    height:100%;
+    width: fit-content;
+    text-align: justify;
+    margin: auto;
+    padding:20px;
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+}
+#contenido-listado {
+    position: absolute;  
+    background-color:#EEEEEE;
+    top: 15%;
+    left:5%;
+    height:fit-content;
+    width: 90%;
+    text-align: justify;
+    margin: auto;
+    padding:20px;
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+}*/
+#pie {background-color:#ddf0a4;color:#ff0000;height:30px;}
+.contenedor-columnas {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+div{
+
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+}
+.formulario {
+    
+    width: calc(23.33% - 20px); /* Mostrar en 3 columnas */
+    font-size: 15px;
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+    .formulario {
+        width: calc(50% - 20px); /* Cambiar a 2 columnas en pantallas más pequeñas */
+    }
+}/*
+#actualizar{
+    font-family: 'Overpass';
+    background-color:#EEEEEE;
+    color: #000000;
+    text-align: justify;
+    width: fit-content;
+    top: 40%;
+    margin: auto;
+    padding:20px;
+    border: 2px solid #ccc;
+    box-sizing: border-box;
+}
+#Salir{
+    position: absolute;    
+background-color: #000000;
+    z-index: 2;
+}
+#botnSalir{
+    
+    
+    position: relative;
+
+}
+.BotonSalir{
+    font-size: 20px; 
+    padding: 10px 20px; 
+    margin: 20px;
+}
+.mostrar{
+    font-size: 20px; 
+    padding: 10px 20px; 
+}
+.editar{
+    font-size: 20px; 
+    padding: 10px 20px; /* Agrega espacio interno alrededor del texto en el botón 
+}*/
