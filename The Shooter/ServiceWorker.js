@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Trabajo en pareja-0.1";
 const contentToCache = [
-    "Build/cosas.loader.js",
-    "Build/cosas.framework.js",
-    "Build/cosas.data",
-    "Build/cosas.wasm",
+    "Build/The Shooter.loader.js",
+    "Build/The Shooter.framework.js",
+    "Build/The Shooter.data",
+    "Build/The Shooter.wasm",
     "TemplateData/style.css"
 
 ];
