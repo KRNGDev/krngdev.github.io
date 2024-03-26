@@ -1,7 +1,7 @@
 
 ![Unity_2021 svg](https://github.com/KRNGDev/krngdev.github.io/assets/161486725/2ba137c4-859f-42ae-8408-8f2f9485be2b)
 
-# Repositorio de Videojuegos Unity
+# Repositorio de Videojuegos Unity 🙋
 
 ¡Bienvenido a mi repositorio de videojuegos Unity! Aquí encontrarás una colección de juegos desarrollados utilizando el motor gráfico Unity. Desde juegos simples hasta proyectos más complejos, este repositorio exhibe mi progreso y habilidades en el desarrollo de videojuegos.
 
@@ -12,7 +12,7 @@ Este repositorio sirve como plataforma para mostrar los videojuegos que he cread
 
 
 
-## Juegos Disponibles
+## Juegos Disponibles 🎮
 
 ### Flappy Bird Remake
 
@@ -37,13 +37,13 @@ Este repositorio sirve como plataforma para mostrar los videojuegos que he cread
     - Gráficos coloridos .
     - Guardado de la puntuación maxima 
 
-## Objetivos del Repositorio
+## Objetivos del Repositorio 📈
 
 Este repositorio tiene como objetivo principal mostrar mi progreso y habilidades en el desarrollo de videojuegos con Unity. Además, pretende servir como recurso educativo y de inspiración para otros desarrolladores que estén interesados en el desarrollo de juegos.
 
 --- 
 
-## Contacto
+## Contacto 📧
 
 Si tienes alguna pregunta, sugerencia o simplemente quieres conectarte, no dudes en contactarme. Puedes encontrarme a través de mi correo electrónico o en mis redes sociales.
 
