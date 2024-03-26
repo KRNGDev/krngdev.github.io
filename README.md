@@ -2,12 +2,12 @@
 
 ¡Bienvenido a mi repositorio de videojuegos Unity! Aquí encontrarás una colección de juegos desarrollados utilizando el motor gráfico Unity. Desde juegos simples hasta proyectos más complejos, este repositorio exhibe mi progreso y habilidades en el desarrollo de videojuegos.
 
----
+
 ## Descripción del Repositorio
 
 Este repositorio sirve como plataforma para mostrar los videojuegos que he creado utilizando Unity. Cada juego está desarrollado con un enfoque en la calidad, la jugabilidad y la experiencia del usuario. A través de estos proyectos, busco explorar diversas mecánicas de juego, técnicas de desarrollo y conceptos de diseño.
 
----
+
 
 ## Juegos Disponibles
 
@@ -37,7 +37,8 @@ Este repositorio sirve como plataforma para mostrar los videojuegos que he cread
 ## Objetivos del Repositorio
 
 Este repositorio tiene como objetivo principal mostrar mi progreso y habilidades en el desarrollo de videojuegos con Unity. Además, pretende servir como recurso educativo y de inspiración para otros desarrolladores que estén interesados en el desarrollo de juegos.
- --- 
+
+--- 
 
 ## Contacto
 
