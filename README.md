@@ -26,7 +26,7 @@ Este repositorio sirve como plataforma para mostrar los videojuegos que he cread
 
 - **Descripción**: Un juego de disparos en visión TopDown  donde el jugador asume el papel de un pistolero enfrentándose a hordas de enemigos donde tiene que disparar al mayor numero de enemigos en el tiempo estipulado.
 
-**Controles:**
+- **Controles:**
 -Movimiento teclas de flechas o  A, W, S, D
 -Salto: tecla Space
 -Disparo: Boton izquierdo raton
