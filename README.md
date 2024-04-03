@@ -28,12 +28,12 @@ Este repositorio sirve como plataforma para mostrar los videojuegos que he cread
 
 - **Controles**:
 
-    -Movimiento teclas de flechas o  A, W, S, D
-    -Salto: tecla Space
-    -Disparo: Boton izquierdo raton
-    -Recargar: Con el arma que quieras recargar activada y la tecla R
-    -Granadas: Manteniendo pulsado la tecla Q
-    -Francotirador: Manteniendo el boton Derecho del raton 
+    -Movimiento teclas de flechas o  A, W, S, D.
+    -Salto: tecla Space.
+    -Disparo: Boton izquierdo raton.
+    -Recargar: Con el arma que quieras recargar activada y la tecla R.
+    -Granadas: Manteniendo pulsado la tecla Q.
+    -Francotirador: Manteniendo el boton Derecho del raton .
 
 - **Características Destacadas**:
     - Jugabilidad intensa y acción rapida.
