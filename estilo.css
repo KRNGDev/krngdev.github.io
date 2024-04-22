@@ -11,30 +11,39 @@ body {
   align-items: center;
   margin: 0;
 }
-#Contenedor{
-  display: flexbox;
+
+.Contenedor {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
 }
-nav{
+
+nav {
   display: inline-block;
 }
 
 header {
-  background-color: #fbfbfcf8 ;
+  background-color: #fbfbfcf8;
   padding: 10px;
   margin: 5px;
   font-family: Arial, Helvetica, sans-serif;
   color: rgb(21, 8, 99);
-  text-align: center;
-  
-  -webkit-text-stroke: 0.1px white; /* Para navegadores webkit (Chrome, Safari) */
+
+
+  -webkit-text-stroke: 0.1px white;
+  /* Para navegadores webkit (Chrome, Safari) */
   /*text-stroke: 0.1px white; /* Para navegadores que soporten la propiedad text-stroke */
-  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.445); 
-  border-radius: 10px; /* Ajusta el valor para cambiar el radio de las esquinas */
-  box-shadow: 0 2px 4px rgba(7, 7, 7, 0.705);  /* Ajusta los valores para personalizar la sombra */
+  text-shadow: 5px 5px 10px rgba(0, 0, 0, 0.445);
+  border-radius: 10px;
+  /* Ajusta el valor para cambiar el radio de las esquinas */
+  box-shadow: 0 2px 4px rgba(7, 7, 7, 0.705);
+  /* Ajusta los valores para personalizar la sombra */
 }
 
 ul {
   list-style-type: none;
+  justify-content: center;
 }
 
 li {
@@ -57,7 +66,6 @@ div {
   max-width: 300px;
   margin: 10px;
   padding: 5px;
-  display: inline-block;
   background-color: #fffffff6;
   border-radius: 5px;
   /* Ajusta el valor para cambiar el radio de las esquinas */
@@ -79,23 +87,28 @@ a {
 
 footer {
   position: fixed;
-  width: 100%;  /* Fija la posición del footer */
+  width: 100%;
+  /* Fija la posición del footer */
   bottom: 0;
   margin: 10px;
   text-align: center;
   padding: 10px;
   background-color: #170dad13;
-  border-radius: 5px;  /* Ajusta el valor para cambiar el radio de las esquinas */
+  border-radius: 5px;
+  /* Ajusta el valor para cambiar el radio de las esquinas */
   box-shadow: 0 2px 4px rgba(7, 7, 7, 0.466);
 }
 
 h2 {
   max-width: 300px;
   padding: 5px;
-  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.329); 
+  text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.329);
   background-color: #e4e4e7b9;
-  border-radius: 5px;  /* Ajusta el valor para cambiar el radio de las esquinas */
+  border-radius: 5px;
+  /* Ajusta el valor para cambiar el radio de las esquinas */
   box-shadow: 0 2px 4px rgba(7, 7, 7, 0.466);
-  -webkit-text-stroke: 0.2px white; /* Para navegadores webkit (Chrome, Safari) */
-  text-stroke: 0.1px white; /* Para navegadores que soporten la propiedad text-stroke */
+  -webkit-text-stroke: 0.2px white;
+  /* Para navegadores webkit (Chrome, Safari) */
+  text-stroke: 0.1px white;
+  /* Para navegadores que soporten la propiedad text-stroke */
 }
