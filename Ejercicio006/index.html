@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CalculadoraIMC</title>
+    <link rel="stylesheet" href="estilo.css" />
+    <script src="calculadorIMC.js"></script>
+  </head>
+  <body>
+    <main>
+      <h1>Calcula tu IMC</h1>
+      <div class="titulo"></div>
+
+      <div class="contenido">
+        <div>
+          <h2>Datos:</h2>
+          <div class="contenedor">
+            <div class="datos">
+              <label for="">Nombre:</label>
+              <input
+                type="text"
+                name=""
+                id="iNombre"
+                placeholder="Nombre"
+                required="required"
+              />
+            </div>
+            <div class="datos">
+              <label for="">Peso Kg:</label>
+              <input
+                type="number"
+                name=""
+                id="iPeso"
+                placeholder="Kg"
+                required="required"
+              />
+            </div>
+            <div class="datos">
+              <label for="">Altura cm:</label>
+              <input
+                type="number"
+                name=""
+                id="iAltura"
+                placeholder="Altura en cm"
+                required="required"
+              />
+            </div>
+
+            <button onclick="mandarvalores()">Calcular</button>
+          </div>
+        </div>
+        <div class="contenedor2">
+          <h2>Resultado:</h2>
+
+          <div class="resultado">
+            <h3 id="imc"></h3>
+            <h2 id="consejo"></h2>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <script>
+      function mandarvalores() {
+        var nombre = document.getElementById("iNombre").value;
+        var peso = document.getElementById("iPeso").value;
+        var altura = document.getElementById("iAltura").value;
+        var imc= calcularIMC(peso, altura);
+
+        document.getElementById("imc").innerHTML =
+          nombre + " Tienes un  Imc " + imc;
+        document.getElementById("consejo").innerHTML = resultado(
+          imc
+        );
+      }
+    </script>
+  </body>
+</html>
