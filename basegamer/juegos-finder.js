@@ -19,6 +19,7 @@ function getVideojuegos() {
 
 function processData(data) {
   const juegos = JSON.parse(data);
+  console.log(juegos);
   juegos.results.forEach((juego) => {
     generarCardJuego(juego);
   });
@@ -28,13 +29,22 @@ function generarCardJuego(juego) {
   document.querySelector("#juegos").innerHTML += ` <div class="juego">
             <img src="${juego.background_image}"">
             <div class="titulo">${juego.name}</div>
-            <div class="genero">${juego.genres[0]?.name}</div>
+            <div class="genero">${generarGeneros(juego)}</div>
             <div class="plataforma">${generarPlataformas(juego)}</div>
-            <div class="desarrollador">${juego.desarrollador}</div>
+            <div class="desarrollador">${juego.released}</div>
             <div class="anno">${juego.esrb_rating?.name}</div>
         </div>`;
 }
 
+function generarGeneros(juego) {
+  if (!Array.isArray(juego.genres)) {
+    return "Plataformas desconocidas";
+  }
+  return juego.genres
+    .map((objeto) => objeto?.name)
+    .filter((name) => name)
+    .join(", ");
+}
 function generarPlataformas(juego) {
   if (!Array.isArray(juego.platforms)) {
     return "Plataformas desconocidas";
