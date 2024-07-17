@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: rgb(243, 242, 242);
+}
+.cabecera {
+  text-align: center;
+}
+
+#juegos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.juego {
+  background-color: #fff;
+  width: 200px;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+  margin: 20px;
+}
+
+.juego img {
+  width: 100%;
+  height: 120px;
+}
+
+.juego .titulo {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 10px 0;
+  text-align: center;
+}
+
+.juego .genero,
+.juego .plataforma,
+.juego .desarrollador,
+.juego .anno {
+  padding: 5px 10px;
+  background-color: #f0f0f0;
+  margin-bottom: 5px;
+  text-align: center;
+}
