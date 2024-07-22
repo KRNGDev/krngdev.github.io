@@ -1,0 +1,63 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: antiquewhite;
+}
+
+.contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #f4f4f4;
+}
+
+.monumento {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  width: 400px; /* Ancho de la card */
+  border: 1px solid #ccc; /* Borde de la card */
+  border-radius: 8px; /* Bordes redondeados */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.368); /* Sombra */
+  overflow: hidden; /* Para que la imagen no se salga de los bordes */
+  background-color: #fff; /* Fondo blanco */
+  margin: 10px auto; /* Centramos la card horizontalmente */
+}
+
+.imagen {
+  flex: 2; /* Toma el 50% del espacio disponible */
+}
+
+.imagen img {
+  width: 100%; /* Imagen ocupa todo el espacio de su contenedor */
+  height: auto; /* Mantiene la proporción de la imagen */
+  display: block;
+}
+
+.datos {
+  flex: 2; /* Toma el 50% del espacio disponible */
+  list-style-type: none; /* Quitamos los puntos de la lista */
+  padding: 15px; /* Espacio interno para separar el contenido de los bordes */
+  margin: 0; /* Quitamos los márgenes */
+}
+
+.datos li {
+  margin-bottom: 5px; /* Espacio entre los elementos de la lista */
+  font-size: 16px; /* Tamaño de fuente */
+  color: #333; /* Color del texto */
+}
+
+.datos li:last-child {
+  margin-bottom: 0; /* Quitamos el margen inferior del último elemento */
+}
+
+nav {
+  display: flex;
+
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+  background-color: #9ef883;
+  align-items: center;
+}
