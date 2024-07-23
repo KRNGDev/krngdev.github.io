@@ -54,7 +54,7 @@ body {
 
 nav {
   display: flex;
-
+  gap: 5px;
   flex-direction: row;
   justify-content: space-between;
   padding: 10px;
