@@ -9,12 +9,17 @@
   <body>
     <nav>
       <h1>Puntos de interes de Vigo</h1>
-      <div>
-        <a href="../index.html">Volver</a>
-      </div>
+    </nav>
+
+    <nav class="subnav">
+      <button onclick="location.href='../index.html'">
+        Monumentos de interes
+      </button>
       <div class="filtro">
-        <label for="filtro">Filtro</label>
-        <input type="text" id="iFiltro" placeholder="Filtrar" />
+        <label for="filtro">Filtrar </label>
+        <input type="text" id="iFiltro" placeholder="Nombre" />
+        <label>Categoria</label>
+        <select name="categoria" id="categoria"></select>
       </div>
     </nav>
     <div class="contenedor"></div>

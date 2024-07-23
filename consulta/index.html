@@ -6,15 +6,22 @@
     <title>Consulta Api</title>
     <link rel="stylesheet" href="css/estilo.css" />
   </head>
+
   <body>
     <nav>
-      <h1>Monumentos de Vigo</h1>
-      <div>
-        <a href="Vistas/puntosInteres.html">Puntos de interes</a>
+      <div class="texto">
+        <h1>Monumentos de Vigo</h1>
       </div>
+    </nav>
+    <nav class="subnav">
+      <button onclick="location.href='Vistas/puntosInteres.html'">
+        Puntos de interes
+      </button>
       <div class="filtro">
-        <label for="filtro">Filtro</label>
-        <input type="text" id="iFiltro" placeholder="Filtrar" />
+        <label for="filtro">Filtrar</label>
+        <input type="text" id="iFiltro" placeholder="Nombre" />
+        <label>Categoria</label>
+        <select name="categoria" id="categoria"></select>
       </div>
     </nav>
     <div class="contenedor"></div>

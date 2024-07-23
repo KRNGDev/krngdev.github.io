@@ -61,3 +61,23 @@ nav {
   background-color: #9ef883;
   align-items: center;
 }
+.subnav {
+  background-color: #83cc6d;
+  gap: 10px;
+}
+select {
+  border-radius: 5px;
+  padding: 5px;
+}
+button {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #9ef883;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.368); /* Sombra */
+
+  border: 1px solid #ccc;
+}
+button:hover {
+  background-color: #83cc6d;
+}
