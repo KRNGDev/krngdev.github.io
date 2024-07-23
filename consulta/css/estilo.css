@@ -81,3 +81,8 @@ button {
 button:hover {
   background-color: #83cc6d;
 }
+@media (max-width: 700px) {
+  .nav {
+    flex-direction: column;
+  }
+}
