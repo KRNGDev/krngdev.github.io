@@ -19,7 +19,7 @@ function crearCard(
   //<img src="../ejercicio028_restaurante/imagen/r1.jpg"
   let imgFoto = document.createElement("img");
 
-  imgFoto.src = imagen === null ? "/imagen/null.webp" : imagen;
+  imgFoto.src = imagen === null ? "/consulta/imagen/null.webp" : imagen;
   imgFoto.alt = "Monumento";
   divImagen.appendChild(imgFoto);
 
