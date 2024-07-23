@@ -99,8 +99,13 @@ button:hover {
   .subnav {
     display: flex;
   }
+  #iFiltro {
+    max-width: 100px;
+  }
   .filtro {
     display: flex;
+    gap: 5px;
+    padding: 5px;
     align-items: center;
     justify-content: center;
   }
