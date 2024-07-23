@@ -8,17 +8,7 @@ var datoSelect = [];
 
 function procesarDatosJson(texto) {
   datosSevidor = JSON.parse(texto);
-
-  datosSevidor.forEach((dato) => {
-    crearCard(
-      dato.image_uri,
-      dato.title,
-      dato.address,
-      dato.postcode,
-      dato.subcategoria,
-      dato.description
-    );
-  });
+  generarCard(datosSevidor);
   cargarSelet();
 }
 
@@ -34,27 +24,21 @@ document.querySelector("#categoria").addEventListener("change", (evento) => {
     return dato.subcategoria && dato.subcategoria.includes(texto);
   });
   document.querySelector(".contenedor").innerHTML = "";
-
-  categoriasFiltradas.forEach((dato) => {
-    crearCard(
-      dato.image_uri,
-      dato.title,
-      dato.address,
-      dato.postcode,
-      dato.subcategoria,
-      dato.description
-    );
-  });
+  generarCard(categoriasFiltradas);
 });
 
 //Filtra por nombre
 document.querySelector("#iFiltro").addEventListener("keyup", () => {
-  let texto = document.querySelector("#iFiltro").value;
+  let texto = document.querySelector("#iFiltro").value.toUpperCase();
   let datosFiltrados = datosSevidor.filter((dato) => {
-    return dato.title.includes(texto);
+    return dato.title.toUpperCase().includes(texto);
   });
   document.querySelector(".contenedor").innerHTML = "";
-  datosFiltrados.forEach((dato) => {
+  generarCard(datosFiltrados);
+});
+
+function generarCard(datos) {
+  datos.forEach((dato) => {
     crearCard(
       dato.image_uri,
       dato.title,
@@ -64,7 +48,7 @@ document.querySelector("#iFiltro").addEventListener("keyup", () => {
       dato.description
     );
   });
-});
+}
 
 function agregarSelect(array) {
   let select = document.querySelector("#categoria");
@@ -84,5 +68,3 @@ function cargarSelet() {
   });
   agregarSelect(datoSelect);
 }
-
-console.log(datoSelect);
