@@ -1,807 +1,801 @@
 [
   {
-    "imagen":"https://commondatastorage.googleapis.com/images.pricecharting.com/AMIfv97ywT6Cq28Pl39A5xlgTHr6GR51Y7FDlCGtnBt7D8scmNDYbE4OB5BC1FAy1w3WncKeJRENoBu51SmAppXv-FyTPpJ-XB6-sQbs97BToJSiNwr9Fg3PFAs7keX_JbMJP5bOV1gogqWPTC92SCXKPCw4drsWSg/240.jpg",
-    "titulo": "Call of Duty",
+    "imagenUrl": "https://commondatastorage.googleapis.com/images.pricecharting.com/AMIfv97ywT6Cq28Pl39A5xlgTHr6GR51Y7FDlCGtnBt7D8scmNDYbE4OB5BC1FAy1w3WncKeJRENoBu51SmAppXv-FyTPpJ-XB6-sQbs97BToJSiNwr9Fg3PFAs7keX_JbMJP5bOV1gogqWPTC92SCXKPCw4drsWSg/240.jpg",
+    "nombre": "Call of Duty",
     "genero": "Shooter",
     "plataformas": {
-        "version1":"Ps2",
-        "version2":"xbox360"
+      "version1": "Ps2",
+      "version2": "xbox360"
     },
-    "anno": 2004,
+    "fecha": 2004,
     "pgi": 18,
-    "desarrollador": "Activision"
+    "empresa": "Activision"
   },
   {
-    "imagen":"https://upload.wikimedia.org/wikipedia/ca/thumb/6/6e/Alundra.webp/600px-Alundra.webp.png",
-    "titulo": "Alundra",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/ca/thumb/6/6e/Alundra.webp/600px-Alundra.webp.png",
+    "nombre": "Alundra",
     "genero": "RPG",
     "plataformas": "Psx",
-    "anno": 1997,
+    "fecha": 1997,
     "pgi": 13,
-    "desarrollador": "Konnami"
+    "empresa": "Konnami"
   },
   {
-    "imagen":"https://upload.wikimedia.org/wikipedia/en/b/bf/Wonder_Boy_in_Monster_World.jpg",
-    "titulo": "Wonder boy in monster world",
+    "imagenUrl": "https://upload.wikimedia.org/wikipedia/en/b/bf/Wonder_Boy_in_Monster_World.jpg",
+    "nombre": "Wonder boy in monster world",
     "genero": "action rpg",
     "plataformas": {
-        "version1":"Psx",
-        "version2":"Mega Drive",
-        "version3":"Master system"
+      "version1": "Psx",
+      "version2": "Mega Drive",
+      "version3": "Master system"
     },
-    "anno": 1991,
+    "fecha": 1991,
     "pgi": 13,
-    "desarrollador": "Weston bil entertaiment"
+    "empresa": "Weston bil entertaiment"
   },
   {
-    "imagen":"https://i.3djuegos.com/juegos/5327/super_mario_bros/fotos/ficha/super_mario_bros-1698422.webp",
-    "titulo": "Super Mario bros",
+    "imagenUrl": "https://i.3djuegos.com/juegos/5327/super_mario_bros/fotos/ficha/super_mario_bros-1698422.webp",
+    "nombre": "Super Mario bros",
     "genero": "Plataformas",
     "plataformas": "Nintendo",
-    "anno": 1986,
+    "fecha": 1986,
     "pgi": 9,
-    "desarrollador": "Nintendo"
+    "empresa": "Nintendo"
   },
   {
-    "imagen":"https://i.3djuegos.com/juegos/3236/the_secret_of_monkey_island/fotos/ficha/the_secret_of_monkey_island-1689315.jpg",
-    "titulo": "Monkey island",
+    "imagenUrl": "https://i.3djuegos.com/juegos/3236/the_secret_of_monkey_island/fotos/ficha/the_secret_of_monkey_island-1689315.jpg",
+    "nombre": "Monkey island",
     "genero": "Aventura Grafica",
     "plataformas": {
-        "version1":"Pc",
-        "version2":"Ps3"
-        
+      "version1": "Pc",
+      "version2": "Ps3"
     },
-    "anno": 1990,
+    "fecha": 1990,
     "pgi": 10,
-    "desarrollador": "Lucasfilm Game"
+    "empresa": "Lucasfilm Game"
   },
   {
-    "imagen":"https://media.vandal.net/m/9472/sonic-the-hedgehog-master-system-cv-201982811165251_1.jpg",
-    "titulo": "Sonic",
+    "imagenUrl": "https://media.vandal.net/m/9472/sonic-the-hedgehog-master-system-cv-201982811165251_1.jpg",
+    "nombre": "Sonic",
     "genero": "Plataformas",
     "plataformas": {
-        "version1":"Master system",
-        "version2":"Mega Drive"
-        
+      "version1": "Master system",
+      "version2": "Mega Drive"
     },
-    "anno": 1991,
+    "fecha": 1991,
     "pgi": 6,
-    "desarrollador": "Sega"
-  }
-  ,
+    "empresa": "Sega"
+  },
   {
-    "imagen":"https://www.retroplace.com/pics/sms/packshots/21939--alex-kidd-in-miracle-world.png",
-    "titulo": "Alex kid in miracle world",
+    "imagenUrl": "https://www.retroplace.com/pics/sms/packshots/21939--alex-kidd-in-miracle-world.png",
+    "nombre": "Alex kid in miracle world",
     "genero": "Plataformas",
     "plataformas": {
-        "version1":"Master system",
-        "version2":"Mega Drive"
-        
+      "version1": "Master system",
+      "version2": "Mega Drive"
     },
-    "anno": 1991,
+    "fecha": 1991,
     "pgi": 6,
-    "desarrollador": "Sega"
+    "empresa": "Sega"
+  },
+  {
+    "nombre": "T'ai Fu: Wrath of the Tiger",
+    "codigo": "SLUS-00735",
+    "genero": "Action",
+    "fecha": 1999,
+    "clasificacion": null,
+    "empresa": "DreamWorks Interactive"
+  },
+  {
+    "nombre": "T.R.A.G.: Mission of Mercy",
+    "codigo": "SCUS-94236",
+    "genero": "Action",
+    "fecha": 2000,
+    "clasificacion": null,
+    "empresa": "Polygon Magic"
+  },
+  {
+    "nombre": "Tactics Ogre: Let Us Cling Together",
+    "codigo": "SLUS-00560",
+    "genero": "Strategy",
+    "fecha": 1998,
+    "clasificacion": null,
+    "empresa": "Quest"
+  },
+  {
+    "nombre": "Tail Concerto",
+    "codigo": "SLUS-00621",
+    "genero": "Action",
+    "fecha": 1999,
+    "clasificacion": null,
+    "empresa": "CyberConnect"
+  },
+  {
+    "nombre": "Tales of Destiny",
+    "codigo": "SLUS-00626",
+    "genero": "RPG",
+    "fecha": 1998,
+    "clasificacion": null,
+    "empresa": "Wolf Team"
+  },
+  {
+    "nombre": "Tales of Destiny II",
+    "codigo": "SLUS-01355",
+    "genero": "RPG",
+    "fecha": 2001,
+    "clasificacion": null,
+    "empresa": "Namco"
+  },
+  {
+    "nombre": "Tales of Phantasia",
+    "codigo": "SLUS-04336",
+    "genero": "RPG",
+    "fecha": 2006,
+    "clasificacion": null,
+    "empresa": "Namco Tales Studio"
+  },
+  {
+    "nombre": "Tales of Destiny II",
+    "codigo": "SLUS-01355",
+    "genero": "RPG",
+    "fecha": 2001,
+    "clasificacion": null,
+    "empresa": "Namco"
+  },
+  {
+    "nombre": "Tales of the Abyss",
+    "codigo": "SLUS-21386",
+    "genero": "RPG",
+    "fecha": 2006,
+    "clasificacion": null,
+    "empresa": "Namco"
+  },
+  {
+    "nombre": "Tales of Destiny II",
+    "codigo": "SLUS-01355",
+    "genero": "RPG",
+    "fecha": 2001,
+    "clasificacion": null,
+    "empresa": "Namco"
+  },
+  {
+    "nombre": "Tales of Eternia",
+    "codigo": "SLUS-01255",
+    "genero": "RPG",
+    "fecha": 2001,
+    "clasificacion": null,
+    "empresa": "Namco"
+  },
+  {
+    "nombre": "Tales of Symphonia",
+    "codigo": "SLUS-20657",
+    "genero": "RPG",
+    "fecha": 2004,
+    "clasificacion": null,
+    "empresa": "Namco Tales Studio"
+  },
+  {
+    "nombre": "Tales of the World: Radiant Mythology",
+    "codigo": "ULUS-10271",
+    "genero": "RPG",
+    "fecha": 2007,
+    "clasificacion": null,
+    "empresa": "Alfa System"
+  },
+  {
+    "nombre": "Tales of the World: Radiant Mythology 2",
+    "codigo": "ULUS-10465",
+    "genero": "RPG",
+    "fecha": 2009,
+    "clasificacion": null,
+    "empresa": "Alfa System"
+  },
+  {
+    "nombre": "Tales of the World: Radiant Mythology 3",
+    "codigo": "NPJH-50318",
+    "genero": "RPG",
+    "fecha": 2011,
+    "clasificacion": null,
+    "empresa": "Alfa System"
+  },
+  {
+    "nombre": "Tales of Symphonia: Dawn of the New World",
+    "codigo": "RSBJ-99",
+    "genero": "RPG",
+    "fecha": 2008,
+    "clasificacion": null,
+    "empresa": "Namco Tales Studio"
+  },
+  {
+    "nombre": "Tales of the Heroes: Twin Brave",
+    "codigo": "NPJH-50519",
+    "genero": "RPG",
+    "fecha": 2012,
+    "clasificacion": null,
+    "empresa": "Alfa System"
+  },
+  {
+    "nombre": "Tales of Xillia",
+    "codigo": "BLUS-31006",
+    "genero": "RPG",
+    "fecha": 2013,
+    "clasificacion": null,
+    "empresa": "Namco Tales Studio"
+  },
+  {
+    "nombre": "Tales of Xillia 2",
+    "codigo": "BLUS-31397",
+    "genero": "RPG",
+    "fecha": 2014,
+    "clasificacion": null,
+    "empresa": "Namco Tales Studio"
+  },
+  {
+    "nombre": "Tales of Zestiria",
+    "codigo": "BLUS-31529",
+    "genero": "RPG",
+    "fecha": 2015,
+    "clasificacion": null,
+    "empresa": "Bandai Namco Entertainment"
+  },
+  {
+    "nombre": "Tales of Berseria",
+    "codigo": "BLES-02243",
+    "genero": "RPG",
+    "fecha": 2017,
+    "clasificacion": null,
+    "empresa": "Bandai Namco Studios"
+  },
+  {
+    "nombre": "Tales of Arise",
+    "codigo": "BLES-03044",
+    "genero": "RPG",
+    "fecha": 2021,
+    "clasificacion": null,
+    "empresa": "Bandai Namco Entertainment"
+  },
+  {
+    "nombre": "Tekken",
+    "codigo": "SCUS-94100",
+    "genero": "Fighting",
+    "fecha": 1995,
+    "clasificacion": null,
+    "empresa": "Namco"
+  },
+  {
+    "nombre": "Tekken 2",
+    "codigo": "SCUS-94157",
+    "genero": "Fighting",
+    "fecha": 1996,
+    "clasificacion": null,
+    "empresa": "Namco"
+  },
+  {
+    "nombre": "Tekken 3",
+    "codigo": "SCUS-94228",
+    "genero": "Fighting",
+    "fecha": 1998,
+    "clasificacion": null,
+    "empresa": "Namco"
+  },
+  {
+    "nombre": "Tenchu: Stealth Assassins",
+    "codigo": "SLUS-00706",
+    "genero": "Action",
+    "fecha": 1998,
+    "clasificacion": null,
+    "empresa": "Acquire"
+  },
+  {
+    "nombre": "Tenchu 2: Birth of the Stealth Assassins",
+    "codigo": "SLUS-00939",
+    "genero": "Action",
+    "fecha": 2000,
+    "clasificacion": null,
+    "empresa": "Acquire"
+  },
+  {
+    "nombre": "Test Drive 4",
+    "codigo": "SLUS-00275",
+    "genero": "Racing",
+    "fecha": 1997,
+    "clasificacion": null,
+    "empresa": "Pitbull Syndicate"
+  },
+  {
+    "nombre": "Test Drive 5",
+    "codigo": "SLUS-00740",
+    "genero": "Racing",
+    "fecha": 1998,
+    "clasificacion": null,
+    "empresa": "Pitbull Syndicate"
+  },
+  {
+    "nombre": "Test Drive 6",
+    "codigo": "SLUS-01115",
+    "genero": "Racing",
+    "fecha": 1999,
+    "clasificacion": null,
+    "empresa": "Pitbull Syndicate"
+  },
+  {
+    "nombre": "Test Drive: Le Mans",
+    "codigo": "SLUS-01159",
+    "genero": "Racing",
+    "fecha": 2000,
+    "clasificacion": null,
+    "empresa": "Pitbull Syndicate"
+  },
+  {
+    "nombre": "Tetris Plus",
+    "codigo": "SLUS-00285",
+    "genero": "Puzzle",
+    "fecha": 1996,
+    "clasificacion": null,
+    "empresa": "Natsume"
+  },
+  {
+    "nombre": "Theme Hospital",
+    "codigo": "SLUS-00273",
+    "genero": "Simulation",
+    "fecha": 1998,
+    "clasificacion": null,
+    "empresa": "Bullfrog Productions"
+  },
+  {
+    "nombre": "Threads of Fate",
+    "codigo": "SLUS-01019",
+    "genero": "RPG",
+    "fecha": 2000,
+    "clasificacion": null,
+    "empresa": "Square"
+  },
+  {
+    "nombre": "Thrill Kill",
+    "codigo": "SLUS-00752",
+    "genero": "Fighting",
+    "fecha": 1998,
+    "clasificacion": null,
+    "empresa": "Paradox Development"
+  },
+  {
+    "nombre": "Thunder Force V: Perfect System",
+    "codigo": "SLUS-00247",
+    "genero": "Shooter",
+    "fecha": 1997,
+    "clasificacion": null,
+    "empresa": "Technosoft"
+  },
+  {
+    "nombre": "Tiger Woods 99 PGA Tour Golf",
+    "codigo": "SLUS-00707",
+    "genero": "Sports",
+    "fecha": 1998,
+    "clasificacion": null,
+    "empresa": "EA Sports"
+  },
+  {
+    "nombre": "Time Crisis",
+    "codigo": "SCUS-94453",
+    "genero": "Action",
+    "fecha": 1997,
+    "clasificacion": null,
+    "empresa": "Namco"
+  },
+  {
+    "nombre": "Time Crisis: Project Titan",
+    "codigo": "SCUS-94482",
+    "genero": "Action",
+    "fecha": 2001,
+    "clasificacion": null,
+    "empresa": "Namco"
+  },
+  {
+    "nombre": "Time Crisis: Razing Storm",
+    "codigo": "BCAS-20107",
+    "genero": "Shooter",
+    "fecha": 2010,
+    "clasificacion": null,
+    "empresa": "Namco"
+  },
+  {
+    "nombre": "TimeSplitters",
+    "codigo": "SLUS-20084",
+    "genero": "Shooter",
+    "fecha": 2000,
+    "clasificacion": null,
+    "empresa": "Free Radical Design"
+  },
+  {
+    "nombre": "TimeSplitters 2",
+    "codigo": "SLUS-20309",
+    "genero": "Shooter",
+    "fecha": 2002,
+    "clasificacion": null,
+    "empresa": "Free Radical Design"
+  },
+  {
+    "nombre": "Tiny Tank",
+    "codigo": "SLUS-00842",
+    "genero": "Action",
+    "fecha": 1999,
+    "clasificacion": null,
+    "empresa": "AndNow"
+  },
+  {
+    "nombre": "TNN Motorsports Hardcore 4x4",
+    "codigo": "SLUS-00043",
+    "genero": "Racing",
+    "fecha": 1996,
+    "clasificacion": null,
+    "empresa": "Gremlin Interactive"
+  },
+  {
+    "nombre": "TNN Motorsports Hardcore TR",
+    "codigo": "SLUS-00456",
+    "genero": "Racing",
+    "fecha": 1999,
+    "clasificacion": null,
+    "empresa": "ASC Games"
+  },
+  {
+    "nombre": "Toca 2 Touring Car Challenge",
+    "codigo": "SLES-00840",
+    "genero": "Racing",
+    "fecha": 1998,
+    "clasificacion": null,
+    "empresa": "Codemasters"
+  },
+  {
+    "nombre": "TOCA Championship Racing",
+    "codigo": "SLES-00877",
+    "genero": "Racing",
+    "fecha": 1997,
+    "clasificacion": null,
+    "empresa": "Codemasters"
+  },
+  {
+    "nombre": "Tomb Raider",
+    "codigo": "SLUS-00152",
+    "genero": "Action",
+    "fecha": 1996,
+    "clasificacion": null,
+    "empresa": "Core Design"
+  },
+  {
+    "nombre": "Tomb Raider II",
+    "codigo": "SLUS-00437",
+    "genero": "Action",
+    "fecha": 1997,
+    "clasificacion": null,
+    "empresa": "Core Design"
+  },
+  {
+    "nombre": "Tomb Raider III: Adventures of Lara Croft",
+    "codigo": "SLUS-00691",
+    "genero": "Action",
+    "fecha": 1998,
+    "clasificacion": null,
+    "empresa": "Core Design"
+  },
+  {
+    "nombre": "Tomb Raider: The Last Revelation",
+    "codigo": "SLUS-00885",
+    "genero": "Action",
+    "fecha": 1999,
+    "clasificacion": null,
+    "empresa": "Core Design"
+  },
+  {
+    "nombre": "Tomb Raider Chronicles",
+    "codigo": "SLUS-01311",
+    "genero": "Action",
+    "fecha": 2000,
+    "clasificacion": null,
+    "empresa": "Core Design"
+  },
+  {
+    "nombre": "Tomb Raider: The Angel of Darkness",
+    "codigo": "SLES-51815",
+    "genero": "Action",
+    "fecha": 2003,
+    "clasificacion": null,
+    "empresa": "Core Design"
+  },
+  {
+    "nombre": "Tomb Raider: Legend",
+    "codigo": "SLES-53901",
+    "genero": "Action",
+    "fecha": 2006,
+    "clasificacion": null,
+    "empresa": "Crystal Dynamics"
+  },
+  {
+    "nombre": "Tomb Raider: Anniversary",
+    "codigo": "SLES-53902",
+    "genero": "Action",
+    "fecha": 2007,
+    "clasificacion": null,
+    "empresa": "Crystal Dynamics"
+  },
+  {
+    "nombre": "Tomb Raider: Underworld",
+    "codigo": "SLES-55344",
+    "genero": "Action",
+    "fecha": 2008,
+    "clasificacion": null,
+    "empresa": "Crystal Dynamics"
+  },
+  {
+    "nombre": "Tomb Raider",
+    "codigo": "NPUB-30812",
+    "genero": "Action",
+    "fecha": 2011,
+    "clasificacion": null,
+    "empresa": "Crystal Dynamics"
+  },
+  {
+    "nombre": "Tomb Raider: Definitive Edition",
+    "codigo": "CUSA-00107",
+    "genero": "Action",
+    "fecha": 2014,
+    "clasificacion": null,
+    "empresa": "Crystal Dynamics"
+  },
+  {
+    "nombre": "Tomb Raider",
+    "codigo": "CUSA-05716",
+    "genero": "Action",
+    "fecha": 2018,
+    "clasificacion": null,
+    "empresa": "Crystal Dynamics"
+  },
+  {
+    "nombre": "Tomb Raider: The Prophecy",
+    "codigo": "SLUS-01607",
+    "genero": "Action",
+    "fecha": 2003,
+    "clasificacion": null,
+    "empresa": "Core Design"
+  },
+  {
+    "nombre": "Tom Clancy's Rainbow Six",
+    "codigo": "SLUS-00041",
+    "genero": "Shooter",
+    "fecha": 1999,
+    "clasificacion": null,
+    "empresa": "Red Storm Entertainment"
+  },
+  {
+    "nombre": "Tom Clancy's Rainbow Six: Lone Wolf",
+    "codigo": "SLUS-01108",
+    "genero": "Shooter",
+    "fecha": 2002,
+    "clasificacion": null,
+    "empresa": "Cryo Interactive"
+  },
+  {
+    "nombre": "Tom Clancy's Rainbow Six: Rogue Spear",
+    "codigo": "SLUS-01013",
+    "genero": "Shooter",
+    "fecha": 2001,
+    "clasificacion": null,
+    "empresa": "Red Storm Entertainment"
+  },
+  {
+    "nombre": "Tom Clancy's Rainbow Six: Rogue Spear: Black Thorn",
+    "codigo": "SLUS-01445",
+    "genero": "Shooter",
+    "fecha": 2001,
+    "clasificacion": null,
+    "empresa": "Red Storm Entertainment"
+  },
+  {
+    "nombre": "Tom Clancy's Rainbow Six: Rogue Spear: Urban Operations",
+    "codigo": "SLUS-01368",
+    "genero": "Shooter",
+    "fecha": 2000,
+    "clasificacion": null,
+    "empresa": "Red Storm Entertainment"
+  },
+  {
+    "nombre": "Tom Clancy's Rainbow Six: Siege",
+    "codigo": "CUSA-01800",
+    "genero": "Shooter",
+    "fecha": 2015,
+    "clasificacion": null,
+    "empresa": "Ubisoft Montreal"
+  },
+  {
+    "nombre": "Tom Clancy's Splinter Cell",
+    "codigo": "SLUS-20663",
+    "genero": "Action",
+    "fecha": 2003,
+    "clasificacion": null,
+    "empresa": "Ubisoft Montreal"
+  },
+  {
+    "nombre": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "codigo": "SLUS-20821",
+    "genero": "Action",
+    "fecha": 2004,
+    "clasificacion": null,
+    "empresa": "Ubisoft Shanghai"
+  },
+  {
+    "nombre": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "codigo": "SLUS-21154",
+    "genero": "Action",
+    "fecha": 2005,
+    "clasificacion": null,
+    "empresa": "Ubisoft Montreal"
+  },
+  {
+    "nombre": "Tom Clancy's Splinter Cell: Essentials",
+    "codigo": "ULUS-10101",
+    "genero": "Action",
+    "fecha": 2006,
+    "clasificacion": null,
+    "empresa": "Ubisoft Montreal"
+  },
+  {
+    "nombre": "Tom Clancy's Splinter Cell: Double Agent",
+    "codigo": "SLUS-21385",
+    "genero": "Action",
+    "fecha": 2006,
+    "clasificacion": null,
+    "empresa": "Ubisoft Montreal"
+  },
+  {
+    "nombre": "Tomb Raider: The Angel of Darkness",
+    "codigo": "SLES-51815",
+    "genero": "Action",
+    "fecha": 2003,
+    "clasificacion": null,
+    "empresa": "Core Design"
+  },
+  {
+    "nombre": "Tomb Raider: Legend",
+    "codigo": "SLES-53901",
+    "genero": "Action",
+    "fecha": 2006,
+    "clasificacion": null,
+    "empresa": "Crystal Dynamics"
+  },
+  {
+    "nombre": "Tomb Raider: Anniversary",
+    "codigo": "SLES-53902",
+    "genero": "Action",
+    "fecha": 2007,
+    "clasificacion": null,
+    "empresa": "Crystal Dynamics"
+  },
+  {
+    "nombre": "Tomb Raider: Underworld",
+    "codigo": "SLES-55344",
+    "genero": "Action",
+    "fecha": 2008,
+    "clasificacion": null,
+    "empresa": "Crystal Dynamics"
+  },
+  {
+    "nombre": "Tomb Raider",
+    "codigo": "NPUB-30812",
+    "genero": "Action",
+    "fecha": 2011,
+    "clasificacion": null,
+    "empresa": "Crystal Dynamics"
+  },
+  {
+    "nombre": "Tomb Raider: Definitive Edition",
+    "codigo": "CUSA-00107",
+    "genero": "Action",
+    "fecha": 2014,
+    "clasificacion": null,
+    "empresa": "Crystal Dynamics"
+  },
+  {
+    "nombre": "Tomb Raider",
+    "codigo": "CUSA-05716",
+    "genero": "Action",
+    "fecha": 2018,
+    "clasificacion": null,
+    "empresa": "Crystal Dynamics"
+  },
+  {
+    "nombre": "Tomb Raider: The Prophecy",
+    "codigo": "SLUS-01607",
+    "genero": "Action",
+    "fecha": 2003,
+    "clasificacion": null,
+    "empresa": "Core Design"
+  },
+  {
+    "nombre": "Tom Clancy's Rainbow Six",
+    "codigo": "SLUS-00041",
+    "genero": "Shooter",
+    "fecha": 1999,
+    "clasificacion": null,
+    "empresa": "Red Storm Entertainment"
+  },
+  {
+    "nombre": "Tom Clancy's Rainbow Six: Lone Wolf",
+    "codigo": "SLUS-01108",
+    "genero": "Shooter",
+    "fecha": 2002,
+    "clasificacion": null,
+    "empresa": "Cryo Interactive"
+  },
+  {
+    "nombre": "Tom Clancy's Rainbow Six: Rogue Spear",
+    "codigo": "SLUS-01013",
+    "genero": "Shooter",
+    "fecha": 2001,
+    "clasificacion": null,
+    "empresa": "Red Storm Entertainment"
+  },
+  {
+    "nombre": "Tom Clancy's Rainbow Six: Rogue Spear: Black Thorn",
+    "codigo": "SLUS-01445",
+    "genero": "Shooter",
+    "fecha": 2001,
+    "clasificacion": null,
+    "empresa": "Red Storm Entertainment"
+  },
+  {
+    "nombre": "Tom Clancy's Rainbow Six: Rogue Spear: Urban Operations",
+    "codigo": "SLUS-01368",
+    "genero": "Shooter",
+    "fecha": 2000,
+    "clasificacion": null,
+    "empresa": "Red Storm Entertainment"
+  },
+  {
+    "nombre": "Tom Clancy's Rainbow Six: Siege",
+    "codigo": "CUSA-01800",
+    "genero": "Shooter",
+    "fecha": 2015,
+    "clasificacion": null,
+    "empresa": "Ubisoft Montreal"
+  },
+  {
+    "nombre": "Tom Clancy's Splinter Cell",
+    "codigo": "SLUS-20663",
+    "genero": "Action",
+    "fecha": 2003,
+    "clasificacion": null,
+    "empresa": "Ubisoft Montreal"
+  },
+  {
+    "nombre": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
+    "codigo": "SLUS-20821",
+    "genero": "Action",
+    "fecha": 2004,
+    "clasificacion": null,
+    "empresa": "Ubisoft Shanghai"
+  },
+  {
+    "nombre": "Tom Clancy's Splinter Cell: Chaos Theory",
+    "codigo": "SLUS-21154",
+    "genero": "Action",
+    "fecha": 2005,
+    "clasificacion": null,
+    "empresa": "Ubisoft Montreal"
+  },
+  {
+    "nombre": "Tom Clancy's Splinter Cell: Essentials",
+    "codigo": "ULUS-10101",
+    "genero": "Action",
+    "fecha": 2006,
+    "clasificacion": null,
+    "empresa": "Ubisoft Montreal"
+  },
+  {
+    "nombre": "Tom Clancy's Splinter Cell: Double Agent",
+    "codigo": "SLUS-21385",
+    "genero": "Action",
+    "fecha": 2006,
+    "clasificacion": null,
+    "empresa": "Ubisoft Montreal"
   }
-  ,
-    {
-        "titulo": "T'ai Fu: Wrath of the Tiger",
-        "codigo": "SLUS-00735",
-        "genero": "Action",
-        "anno": 1999,
-        "clasificacion": null,
-        "desarrollador": "DreamWorks Interactive"
-    },
-    {
-        "titulo": "T.R.A.G.: Mission of Mercy",
-        "codigo": "SCUS-94236",
-        "genero": "Action",
-        "anno": 2000,
-        "clasificacion": null,
-        "desarrollador": "Polygon Magic"
-    },
-    {
-        "titulo": "Tactics Ogre: Let Us Cling Together",
-        "codigo": "SLUS-00560",
-        "genero": "Strategy",
-        "anno": 1998,
-        "clasificacion": null,
-        "desarrollador": "Quest"
-    },
-    {
-        "titulo": "Tail Concerto",
-        "codigo": "SLUS-00621",
-        "genero": "Action",
-        "anno": 1999,
-        "clasificacion": null,
-        "desarrollador": "CyberConnect"
-    },
-    {
-        "titulo": "Tales of Destiny",
-        "codigo": "SLUS-00626",
-        "genero": "RPG",
-        "anno": 1998,
-        "clasificacion": null,
-        "desarrollador": "Wolf Team"
-    },
-    {
-        "titulo": "Tales of Destiny II",
-        "codigo": "SLUS-01355",
-        "genero": "RPG",
-        "anno": 2001,
-        "clasificacion": null,
-        "desarrollador": "Namco"
-    },
-    {
-        "titulo": "Tales of Phantasia",
-        "codigo": "SLUS-04336",
-        "genero": "RPG",
-        "anno": 2006,
-        "clasificacion": null,
-        "desarrollador": "Namco Tales Studio"
-    },
-    {
-        "titulo": "Tales of Destiny II",
-        "codigo": "SLUS-01355",
-        "genero": "RPG",
-        "anno": 2001,
-        "clasificacion": null,
-        "desarrollador": "Namco"
-    },
-    {
-        "titulo": "Tales of the Abyss",
-        "codigo": "SLUS-21386",
-        "genero": "RPG",
-        "anno": 2006,
-        "clasificacion": null,
-        "desarrollador": "Namco"
-    },
-    {
-        "titulo": "Tales of Destiny II",
-        "codigo": "SLUS-01355",
-        "genero": "RPG",
-        "anno": 2001,
-        "clasificacion": null,
-        "desarrollador": "Namco"
-    },
-    {
-        "titulo": "Tales of Eternia",
-        "codigo": "SLUS-01255",
-        "genero": "RPG",
-        "anno": 2001,
-        "clasificacion": null,
-        "desarrollador": "Namco"
-    },
-    {
-        "titulo": "Tales of Symphonia",
-        "codigo": "SLUS-20657",
-        "genero": "RPG",
-        "anno": 2004,
-        "clasificacion": null,
-        "desarrollador": "Namco Tales Studio"
-    },
-    {
-        "titulo": "Tales of the World: Radiant Mythology",
-        "codigo": "ULUS-10271",
-        "genero": "RPG",
-        "anno": 2007,
-        "clasificacion": null,
-        "desarrollador": "Alfa System"
-    },
-    {
-        "titulo": "Tales of the World: Radiant Mythology 2",
-        "codigo": "ULUS-10465",
-        "genero": "RPG",
-        "anno": 2009,
-        "clasificacion": null,
-        "desarrollador": "Alfa System"
-    },
-    {
-        "titulo": "Tales of the World: Radiant Mythology 3",
-        "codigo": "NPJH-50318",
-        "genero": "RPG",
-        "anno": 2011,
-        "clasificacion": null,
-        "desarrollador": "Alfa System"
-    },
-    {
-        "titulo": "Tales of Symphonia: Dawn of the New World",
-        "codigo": "RSBJ-99",
-        "genero": "RPG",
-        "anno": 2008,
-        "clasificacion": null,
-        "desarrollador": "Namco Tales Studio"
-    },
-    {
-        "titulo": "Tales of the Heroes: Twin Brave",
-        "codigo": "NPJH-50519",
-        "genero": "RPG",
-        "anno": 2012,
-        "clasificacion": null,
-        "desarrollador": "Alfa System"
-    },
-    {
-        "titulo": "Tales of Xillia",
-        "codigo": "BLUS-31006",
-        "genero": "RPG",
-        "anno": 2013,
-        "clasificacion": null,
-        "desarrollador": "Namco Tales Studio"
-    },
-    {
-        "titulo": "Tales of Xillia 2",
-        "codigo": "BLUS-31397",
-        "genero": "RPG",
-        "anno": 2014,
-        "clasificacion": null,
-        "desarrollador": "Namco Tales Studio"
-    },
-    {
-        "titulo": "Tales of Zestiria",
-        "codigo": "BLUS-31529",
-        "genero": "RPG",
-        "anno": 2015,
-        "clasificacion": null,
-        "desarrollador": "Bandai Namco Entertainment"
-    },
-    {
-        "titulo": "Tales of Berseria",
-        "codigo": "BLES-02243",
-        "genero": "RPG",
-        "anno": 2017,
-        "clasificacion": null,
-        "desarrollador": "Bandai Namco Studios"
-    },
-    {
-        "titulo": "Tales of Arise",
-        "codigo": "BLES-03044",
-        "genero": "RPG",
-        "anno": 2021,
-        "clasificacion": null,
-        "desarrollador": "Bandai Namco Entertainment"
-    },
-    {
-        "titulo": "Tekken",
-        "codigo": "SCUS-94100",
-        "genero": "Fighting",
-        "anno": 1995,
-        "clasificacion": null,
-        "desarrollador": "Namco"
-    },
-    {
-        "titulo": "Tekken 2",
-        "codigo": "SCUS-94157",
-        "genero": "Fighting",
-        "anno": 1996,
-        "clasificacion": null,
-        "desarrollador": "Namco"
-    },
-    {
-        "titulo": "Tekken 3",
-        "codigo": "SCUS-94228",
-        "genero": "Fighting",
-        "anno": 1998,
-        "clasificacion": null,
-        "desarrollador": "Namco"
-    },
-    {
-        "titulo": "Tenchu: Stealth Assassins",
-        "codigo": "SLUS-00706",
-        "genero": "Action",
-        "anno": 1998,
-        "clasificacion": null,
-        "desarrollador": "Acquire"
-    },
-    {
-        "titulo": "Tenchu 2: Birth of the Stealth Assassins",
-        "codigo": "SLUS-00939",
-        "genero": "Action",
-        "anno": 2000,
-        "clasificacion": null,
-        "desarrollador": "Acquire"
-    },
-    {
-        "titulo": "Test Drive 4",
-        "codigo": "SLUS-00275",
-        "genero": "Racing",
-        "anno": 1997,
-        "clasificacion": null,
-        "desarrollador": "Pitbull Syndicate"
-    },
-    {
-        "titulo": "Test Drive 5",
-        "codigo": "SLUS-00740",
-        "genero": "Racing",
-        "anno": 1998,
-        "clasificacion": null,
-        "desarrollador": "Pitbull Syndicate"
-    },
-    {
-        "titulo": "Test Drive 6",
-        "codigo": "SLUS-01115",
-        "genero": "Racing",
-        "anno": 1999,
-        "clasificacion": null,
-        "desarrollador": "Pitbull Syndicate"
-    },
-    {
-        "titulo": "Test Drive: Le Mans",
-        "codigo": "SLUS-01159",
-        "genero": "Racing",
-        "anno": 2000,
-        "clasificacion": null,
-        "desarrollador": "Pitbull Syndicate"
-    },
-    {
-        "titulo": "Tetris Plus",
-        "codigo": "SLUS-00285",
-        "genero": "Puzzle",
-        "anno": 1996,
-        "clasificacion": null,
-        "desarrollador": "Natsume"
-    },
-    {
-        "titulo": "Theme Hospital",
-        "codigo": "SLUS-00273",
-        "genero": "Simulation",
-        "anno": 1998,
-        "clasificacion": null,
-        "desarrollador": "Bullfrog Productions"
-    },
-    {
-        "titulo": "Threads of Fate",
-        "codigo": "SLUS-01019",
-        "genero": "RPG",
-        "anno": 2000,
-        "clasificacion": null,
-        "desarrollador": "Square"
-    },
-    {
-        "titulo": "Thrill Kill",
-        "codigo": "SLUS-00752",
-        "genero": "Fighting",
-        "anno": 1998,
-        "clasificacion": null,
-        "desarrollador": "Paradox Development"
-    },
-    {
-        "titulo": "Thunder Force V: Perfect System",
-        "codigo": "SLUS-00247",
-        "genero": "Shooter",
-        "anno": 1997,
-        "clasificacion": null,
-        "desarrollador": "Technosoft"
-    },
-    {
-        "titulo": "Tiger Woods 99 PGA Tour Golf",
-        "codigo": "SLUS-00707",
-        "genero": "Sports",
-        "anno": 1998,
-        "clasificacion": null,
-        "desarrollador": "EA Sports"
-    },
-    {
-        "titulo": "Time Crisis",
-        "codigo": "SCUS-94453",
-        "genero": "Action",
-        "anno": 1997,
-        "clasificacion": null,
-        "desarrollador": "Namco"
-    },
-    {
-        "titulo": "Time Crisis: Project Titan",
-        "codigo": "SCUS-94482",
-        "genero": "Action",
-        "anno": 2001,
-        "clasificacion": null,
-        "desarrollador": "Namco"
-    },
-    {
-        "titulo": "Time Crisis: Razing Storm",
-        "codigo": "BCAS-20107",
-        "genero": "Shooter",
-        "anno": 2010,
-        "clasificacion": null,
-        "desarrollador": "Namco"
-    },
-    {
-        "titulo": "TimeSplitters",
-        "codigo": "SLUS-20084",
-        "genero": "Shooter",
-        "anno": 2000,
-        "clasificacion": null,
-        "desarrollador": "Free Radical Design"
-    },
-    {
-        "titulo": "TimeSplitters 2",
-        "codigo": "SLUS-20309",
-        "genero": "Shooter",
-        "anno": 2002,
-        "clasificacion": null,
-        "desarrollador": "Free Radical Design"
-    },
-    {
-        "titulo": "Tiny Tank",
-        "codigo": "SLUS-00842",
-        "genero": "Action",
-        "anno": 1999,
-        "clasificacion": null,
-        "desarrollador": "AndNow"
-    },
-    {
-        "titulo": "TNN Motorsports Hardcore 4x4",
-        "codigo": "SLUS-00043",
-        "genero": "Racing",
-        "anno": 1996,
-        "clasificacion": null,
-        "desarrollador": "Gremlin Interactive"
-    },
-    {
-        "titulo": "TNN Motorsports Hardcore TR",
-        "codigo": "SLUS-00456",
-        "genero": "Racing",
-        "anno": 1999,
-        "clasificacion": null,
-        "desarrollador": "ASC Games"
-    },
-    {
-        "titulo": "Toca 2 Touring Car Challenge",
-        "codigo": "SLES-00840",
-        "genero": "Racing",
-        "anno": 1998,
-        "clasificacion": null,
-        "desarrollador": "Codemasters"
-    },
-    {
-        "titulo": "TOCA Championship Racing",
-        "codigo": "SLES-00877",
-        "genero": "Racing",
-        "anno": 1997,
-        "clasificacion": null,
-        "desarrollador": "Codemasters"
-    },
-    {
-        "titulo": "Tomb Raider",
-        "codigo": "SLUS-00152",
-        "genero": "Action",
-        "anno": 1996,
-        "clasificacion": null,
-        "desarrollador": "Core Design"
-    },
-    {
-        "titulo": "Tomb Raider II",
-        "codigo": "SLUS-00437",
-        "genero": "Action",
-        "anno": 1997,
-        "clasificacion": null,
-        "desarrollador": "Core Design"
-    },
-    {
-        "titulo": "Tomb Raider III: Adventures of Lara Croft",
-        "codigo": "SLUS-00691",
-        "genero": "Action",
-        "anno": 1998,
-        "clasificacion": null,
-        "desarrollador": "Core Design"
-    },
-    {
-        "titulo": "Tomb Raider: The Last Revelation",
-        "codigo": "SLUS-00885",
-        "genero": "Action",
-        "anno": 1999,
-        "clasificacion": null,
-        "desarrollador": "Core Design"
-    },
-    {
-        "titulo": "Tomb Raider Chronicles",
-        "codigo": "SLUS-01311",
-        "genero": "Action",
-        "anno": 2000,
-        "clasificacion": null,
-        "desarrollador": "Core Design"
-    },
-    {
-        "titulo": "Tomb Raider: The Angel of Darkness",
-        "codigo": "SLES-51815",
-        "genero": "Action",
-        "anno": 2003,
-        "clasificacion": null,
-        "desarrollador": "Core Design"
-    },
-    {
-        "titulo": "Tomb Raider: Legend",
-        "codigo": "SLES-53901",
-        "genero": "Action",
-        "anno": 2006,
-        "clasificacion": null,
-        "desarrollador": "Crystal Dynamics"
-    },
-    {
-        "titulo": "Tomb Raider: Anniversary",
-        "codigo": "SLES-53902",
-        "genero": "Action",
-        "anno": 2007,
-        "clasificacion": null,
-        "desarrollador": "Crystal Dynamics"
-    },
-    {
-        "titulo": "Tomb Raider: Underworld",
-        "codigo": "SLES-55344",
-        "genero": "Action",
-        "anno": 2008,
-        "clasificacion": null,
-        "desarrollador": "Crystal Dynamics"
-    },
-    {
-        "titulo": "Tomb Raider",
-        "codigo": "NPUB-30812",
-        "genero": "Action",
-        "anno": 2011,
-        "clasificacion": null,
-        "desarrollador": "Crystal Dynamics"
-    },
-    {
-        "titulo": "Tomb Raider: Definitive Edition",
-        "codigo": "CUSA-00107",
-        "genero": "Action",
-        "anno": 2014,
-        "clasificacion": null,
-        "desarrollador": "Crystal Dynamics"
-    },
-    {
-        "titulo": "Tomb Raider",
-        "codigo": "CUSA-05716",
-        "genero": "Action",
-        "anno": 2018,
-        "clasificacion": null,
-        "desarrollador": "Crystal Dynamics"
-    },
-    {
-        "titulo": "Tomb Raider: The Prophecy",
-        "codigo": "SLUS-01607",
-        "genero": "Action",
-        "anno": 2003,
-        "clasificacion": null,
-        "desarrollador": "Core Design"
-    },
-    {
-        "titulo": "Tom Clancy's Rainbow Six",
-        "codigo": "SLUS-00041",
-        "genero": "Shooter",
-        "anno": 1999,
-        "clasificacion": null,
-        "desarrollador": "Red Storm Entertainment"
-    },
-    {
-        "titulo": "Tom Clancy's Rainbow Six: Lone Wolf",
-        "codigo": "SLUS-01108",
-        "genero": "Shooter",
-        "anno": 2002,
-        "clasificacion": null,
-        "desarrollador": "Cryo Interactive"
-    },
-    {
-        "titulo": "Tom Clancy's Rainbow Six: Rogue Spear",
-        "codigo": "SLUS-01013",
-        "genero": "Shooter",
-        "anno": 2001,
-        "clasificacion": null,
-        "desarrollador": "Red Storm Entertainment"
-    },
-    {
-        "titulo": "Tom Clancy's Rainbow Six: Rogue Spear: Black Thorn",
-        "codigo": "SLUS-01445",
-        "genero": "Shooter",
-        "anno": 2001,
-        "clasificacion": null,
-        "desarrollador": "Red Storm Entertainment"
-    },
-    {
-        "titulo": "Tom Clancy's Rainbow Six: Rogue Spear: Urban Operations",
-        "codigo": "SLUS-01368",
-        "genero": "Shooter",
-        "anno": 2000,
-        "clasificacion": null,
-        "desarrollador": "Red Storm Entertainment"
-    },
-    {
-        "titulo": "Tom Clancy's Rainbow Six: Siege",
-        "codigo": "CUSA-01800",
-        "genero": "Shooter",
-        "anno": 2015,
-        "clasificacion": null,
-        "desarrollador": "Ubisoft Montreal"
-    },
-    {
-        "titulo": "Tom Clancy's Splinter Cell",
-        "codigo": "SLUS-20663",
-        "genero": "Action",
-        "anno": 2003,
-        "clasificacion": null,
-        "desarrollador": "Ubisoft Montreal"
-    },
-    {
-        "titulo": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
-        "codigo": "SLUS-20821",
-        "genero": "Action",
-        "anno": 2004,
-        "clasificacion": null,
-        "desarrollador": "Ubisoft Shanghai"
-    },
-    {
-        "titulo": "Tom Clancy's Splinter Cell: Chaos Theory",
-        "codigo": "SLUS-21154",
-        "genero": "Action",
-        "anno": 2005,
-        "clasificacion": null,
-        "desarrollador": "Ubisoft Montreal"
-    },
-    {
-        "titulo": "Tom Clancy's Splinter Cell: Essentials",
-        "codigo": "ULUS-10101",
-        "genero": "Action",
-        "anno": 2006,
-        "clasificacion": null,
-        "desarrollador": "Ubisoft Montreal"
-    },
-    {
-        "titulo": "Tom Clancy's Splinter Cell: Double Agent",
-        "codigo": "SLUS-21385",
-        "genero": "Action",
-        "anno": 2006,
-        "clasificacion": null,
-        "desarrollador": "Ubisoft Montreal"
-    },
-    {
-        "titulo": "Tomb Raider: The Angel of Darkness",
-        "codigo": "SLES-51815",
-        "genero": "Action",
-        "anno": 2003,
-        "clasificacion": null,
-        "desarrollador": "Core Design"
-    },
-    {
-        "titulo": "Tomb Raider: Legend",
-        "codigo": "SLES-53901",
-        "genero": "Action",
-        "anno": 2006,
-        "clasificacion": null,
-        "desarrollador": "Crystal Dynamics"
-    },
-    {
-        "titulo": "Tomb Raider: Anniversary",
-        "codigo": "SLES-53902",
-        "genero": "Action",
-        "anno": 2007,
-        "clasificacion": null,
-        "desarrollador": "Crystal Dynamics"
-    },
-    {
-        "titulo": "Tomb Raider: Underworld",
-        "codigo": "SLES-55344",
-        "genero": "Action",
-        "anno": 2008,
-        "clasificacion": null,
-        "desarrollador": "Crystal Dynamics"
-    },
-    {
-        "titulo": "Tomb Raider",
-        "codigo": "NPUB-30812",
-        "genero": "Action",
-        "anno": 2011,
-        "clasificacion": null,
-        "desarrollador": "Crystal Dynamics"
-    },
-    {
-        "titulo": "Tomb Raider: Definitive Edition",
-        "codigo": "CUSA-00107",
-        "genero": "Action",
-        "anno": 2014,
-        "clasificacion": null,
-        "desarrollador": "Crystal Dynamics"
-    },
-    {
-        "titulo": "Tomb Raider",
-        "codigo": "CUSA-05716",
-        "genero": "Action",
-        "anno": 2018,
-        "clasificacion": null,
-        "desarrollador": "Crystal Dynamics"
-    },
-    {
-        "titulo": "Tomb Raider: The Prophecy",
-        "codigo": "SLUS-01607",
-        "genero": "Action",
-        "anno": 2003,
-        "clasificacion": null,
-        "desarrollador": "Core Design"
-    },
-    {
-        "titulo": "Tom Clancy's Rainbow Six",
-        "codigo": "SLUS-00041",
-        "genero": "Shooter",
-        "anno": 1999,
-        "clasificacion": null,
-        "desarrollador": "Red Storm Entertainment"
-    },
-    {
-        "titulo": "Tom Clancy's Rainbow Six: Lone Wolf",
-        "codigo": "SLUS-01108",
-        "genero": "Shooter",
-        "anno": 2002,
-        "clasificacion": null,
-        "desarrollador": "Cryo Interactive"
-    },
-    {
-        "titulo": "Tom Clancy's Rainbow Six: Rogue Spear",
-        "codigo": "SLUS-01013",
-        "genero": "Shooter",
-        "anno": 2001,
-        "clasificacion": null,
-        "desarrollador": "Red Storm Entertainment"
-    },
-    {
-        "titulo": "Tom Clancy's Rainbow Six: Rogue Spear: Black Thorn",
-        "codigo": "SLUS-01445",
-        "genero": "Shooter",
-        "anno": 2001,
-        "clasificacion": null,
-        "desarrollador": "Red Storm Entertainment"
-    },
-    {
-        "titulo": "Tom Clancy's Rainbow Six: Rogue Spear: Urban Operations",
-        "codigo": "SLUS-01368",
-        "genero": "Shooter",
-        "anno": 2000,
-        "clasificacion": null,
-        "desarrollador": "Red Storm Entertainment"
-    },
-    {
-        "titulo": "Tom Clancy's Rainbow Six: Siege",
-        "codigo": "CUSA-01800",
-        "genero": "Shooter",
-        "anno": 2015,
-        "clasificacion": null,
-        "desarrollador": "Ubisoft Montreal"
-    },
-    {
-        "titulo": "Tom Clancy's Splinter Cell",
-        "codigo": "SLUS-20663",
-        "genero": "Action",
-        "anno": 2003,
-        "clasificacion": null,
-        "desarrollador": "Ubisoft Montreal"
-    },
-    {
-        "titulo": "Tom Clancy's Splinter Cell: Pandora Tomorrow",
-        "codigo": "SLUS-20821",
-        "genero": "Action",
-        "anno": 2004,
-        "clasificacion": null,
-        "desarrollador": "Ubisoft Shanghai"
-    },
-    {
-        "titulo": "Tom Clancy's Splinter Cell: Chaos Theory",
-        "codigo": "SLUS-21154",
-        "genero": "Action",
-        "anno": 2005,
-        "clasificacion": null,
-        "desarrollador": "Ubisoft Montreal"
-    },
-    {
-        "titulo": "Tom Clancy's Splinter Cell: Essentials",
-        "codigo": "ULUS-10101",
-        "genero": "Action",
-        "anno": 2006,
-        "clasificacion": null,
-        "desarrollador": "Ubisoft Montreal"
-    },
-    {
-        "titulo": "Tom Clancy's Splinter Cell: Double Agent",
-        "codigo": "SLUS-21385",
-        "genero": "Action",
-        "anno": 2006,
-        "clasificacion": null,
-        "desarrollador": "Ubisoft Montreal"
-    }
 ]
-
